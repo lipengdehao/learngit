@@ -1,4 +1,3 @@
-Git is a version control system
-Git is free software
-Git is a disturbed version control system
-Git is free software disturbed under the GPL
+Git is a disturbed version control system.
+Git is a free software.
+Git is an easy-using tool to manage versions of files.
